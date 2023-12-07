@@ -1,2 +1,2 @@
 # CiaDoGesso
-Site para Cia do Gesso - ALTERNATIVO
+Site para Cia do Gesso
